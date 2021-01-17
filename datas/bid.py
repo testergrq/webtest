@@ -1,0 +1,1 @@
+bid_correct={'money':'100','expected':'投标成功！'}
